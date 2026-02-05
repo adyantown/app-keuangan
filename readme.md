@@ -1,4 +1,4 @@
-## 🇮🇩 Sistem Monitoring Kas Bendahara & GUP
+# 🇮🇩 Sistem Monitoring Kas Bendahara & GUP
 
 **Satuan Kerja: KPU Kabupaten Tulang Bawang Barat**
 
@@ -70,4 +70,5 @@ Aplikasi desktop sederhana berbasis Python untuk membantu Bendahara Pengeluaran 
 
 ---
 
-**Dibuat oleh:** [Adyantown x GeminiAI] **Versi:** 1.0 (Stable Excel Release)
+**Dibuat oleh:** [Adyantown x GeminiAI] 
+**Versi:** 1.0 (Stable Excel Release)
