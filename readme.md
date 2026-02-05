@@ -70,5 +70,4 @@ Aplikasi desktop sederhana berbasis Python untuk membantu Bendahara Pengeluaran 
 
 ---
 
-**Dibuat oleh:** [Adyantown x GeminiAI] 
-**Versi:** 1.0 (Stable Excel Release)
+**Dibuat oleh:** [Adyantown x GeminiAI] <br> **Versi:** 1.0 (Stable Excel Release)
